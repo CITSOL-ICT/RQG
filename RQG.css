@@ -1,0 +1,29 @@
+/* Quote Container Styles */
+.quote-container {
+    font-family: 'Monaco';
+    color: aliceblue;
+    font-size: 1.2em;
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 600px;
+    border: 1px solid #00ca5b86;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #004268;
+  }
+  
+  /* Button Styles */
+  .refresh-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  
+  /* Animation for Quote Container
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  } */
+    
